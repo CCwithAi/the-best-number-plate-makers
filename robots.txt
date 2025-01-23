@@ -1,0 +1,3 @@
+Sitemap: https://ccwithai.github.io/the-best-number-plate-makers/sitemap.xml
+User-agent:*
+Disallow:
